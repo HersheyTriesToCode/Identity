@@ -1,0 +1,8 @@
+bin/CMakeFiles/*
+bin/cmake_install.cmake
+bin/CMakeCache.txt
+bin/identity
+bin/libclustering.dylib
+bin/libmain.dylib
+bin/Makefile
+bin/meshclust
